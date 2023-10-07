@@ -36,7 +36,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-SRIJAN DASGUPTA
+**SRIJAN DASGUPTA**
 
 ## Acknowledgments
 
